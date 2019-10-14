@@ -1,7 +1,10 @@
 # mySQL
-(TODO update the intro)
 This is the workshop section of my intro to mySQL. Here are the things that we are going to do:  
--We are going to install the mySQL server.
+- Install the mySQL server  
+- Create a new user  
+- Create a new database  
+- Create a new table
+
 
 ## Install mySQL
 If you have not installed mySQL server, install it using:
